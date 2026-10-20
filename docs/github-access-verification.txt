@@ -1,0 +1,2 @@
+Temporary GitHub connector access verification.
+Created only on a verification branch. No application code changes.
